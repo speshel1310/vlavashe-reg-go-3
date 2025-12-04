@@ -1,7 +1,9 @@
 const FALLBACK_PROMO_CODES = [
-    "ЧАЙ1",
-    "ЧАЙ2",
-    "ЧАЙ3"
+    "Р1",
+    "Р2",
+    "Р3",
+    "Р4",
+    "Р5"
 ];
 
 class Game {
